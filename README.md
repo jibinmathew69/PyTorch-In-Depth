@@ -3,9 +3,7 @@ This is a repository which looks at Deep learning with Pytorch, with various imp
 
 The repository holds the code and the explanation of code to help beginners and advance you upto an advanced developer. 
 
-## Table Of Contents
-
-### Tutorials
+## Tutorials
 
 ### Introduction to Neural Networks
 
@@ -16,3 +14,8 @@ The repository holds the code and the explanation of code to help beginners and 
 * [Inference and Validation](https://github.com): Training and Evaluation Mode - Fashion MNIST.
 * [Saving and Loading Model](https://github.com): Model persistence.
 * [Loading image data](https://github.com): Introduction to TorchVision and Data Augmentation.
+
+
+## Installation
+
+Install all the depenecies using `pip install -r requirements.txt`
