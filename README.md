@@ -15,6 +15,11 @@ The repository holds the code and the explanation of code to help beginners and 
 * [Saving and Loading Model](https://github.com): Model persistence.
 * [Loading image data](https://github.com): Introduction to TorchVision and Data Augmentation.
 
+### Convolutional Neural Networks
+
+* [Fully connected on MNIST](https://github.com): Create fully connected network, with data loaders.
+* [Validation set from MNIST](https://github.com): Understanding and Implementing validation sets.
+
 
 ## Installation
 
