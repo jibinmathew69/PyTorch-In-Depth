@@ -1,5 +1,5 @@
 # PyTorch-In-Depth
-This is a repository which looks at Deep learning with Pytorch, with various important functions and documentation.
+This is a repository which looks at Deep learning tutorial with Pytorch, with various important functions and documentation.
 
 The repository holds the code and the explanation of code to help beginners and advance you upto an advanced developer. 
 
