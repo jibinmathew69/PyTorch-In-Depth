@@ -13,7 +13,7 @@ The repository holds the code and the explanation of code to help beginners and 
 * [Fashion MNIST](https://github.com): Training Fashion MNIST dataset with fully connected network.
 * [Inference and Validation](https://github.com): Training and Evaluation Mode - Fashion MNIST.
 * [Saving and Loading Model](https://github.com): Model persistence.
-* [Loading image data](https://github.com): Introduction to TorchVision and Data Augmentation.
+* [Loading image data](Introduction%20to%20Neural%20Networks/Part%207%20-%20Loading%20Image%20Data.ipynb): Introduction to TorchVision and Data Augmentation.
 
 ### Convolutional Neural Networks
 
