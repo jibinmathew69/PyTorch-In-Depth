@@ -17,8 +17,8 @@ The repository holds the code and the explanation of code to help beginners and 
 
 ### Convolutional Neural Networks
 
-* [Fully connected on MNIST](https://github.com): Create fully connected network, with data loaders.
-* [Validation set from MNIST](https://github.com): Understanding and Implementing validation sets.
+* [Fully connected on MNIST](CNNs/Mnist%20MLP-with%20validation.ipynb): Create fully connected network, with data loaders.
+* [Validation set from MNIST](CNNs/Mnist%20MLP.ipynb): Understanding and Implementing validation sets.
 
 
 ## Installation
